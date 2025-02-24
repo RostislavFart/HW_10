@@ -1,0 +1,142 @@
+    1  man ls
+    2  man
+    3  mmlk\]7
+    4  man ls
+    5  n
+    6  ls
+    7  cls
+    8  clear
+    9  ls
+   10  clear
+   11  ls
+   12  cd
+   13  cd desktop
+   14  cd ..
+   15  cd desktop
+   16  cd~
+   17  pwd
+   18  pwd
+   19  mkdir Lesson
+   20  ls
+   21  toch emrty.txt
+   22  toch empty.txt
+   23  clear
+   24  ping
+   25  ping google
+   26  ping Google
+   27  ping Google.com
+   28  clear
+   29  date
+   30  system profailer
+   31  df-h
+   32  df -h
+   33  whomi
+   34  whoami
+   35  git config --global "Rostislav"
+   36  n
+   37  git config --global user.name"Rostislav"
+   38  gitclear
+   39  clear
+   40  git config --user.email rostislavfartusok@gmail.com
+   41  git config --global user.email rostislavfartusok@gmail.com
+   42  git clone https://github.com/RostislavFart/Lesson3.1.git
+   43  cd Lesson3.1
+   44  git status
+   45  toch New.txt
+   46  touch New.txt
+   47  git status
+   48  git add New.txt
+   49  git status
+   50  git commit -m "New file"
+   51  git status
+   52  git log
+   53  git branch
+   54  git checkout -b new_branch
+   55  git branch
+   56  nano New.txt
+   57  git status
+   58  git chekautclear
+   59  clean
+   60  clear
+   61  touch main_test.txt
+   62  git add main_test.txt
+   63  git status
+   64  git commit -m"New test"
+   65  git status
+   66  git checkout -bdevelop
+   67  git branch
+   68  touch develop_test.txt
+   69  git add develop_test.txt
+   70  git commit -m"New develop"
+   71  git status
+   72  nano develop_test.txt
+   73  git status
+   74  git add develop_test.txt
+   75  git commit -m"develop_test.txt
+   76  git commit -m"develop_test.txt"
+   77  git commit -m"New_develop"
+   78  clear
+   79  git commit -m"New change"
+   80  get branch
+   81  get status
+   82  git branch
+   83  git checkout main
+   84  git merge develop
+   85  git log
+   86  git status
+   87  git push
+   88  git push
+   89  comand_list.csv
+   90  command_list.csv
+   91  git push
+   92  history > command_list.csv
+   93  git add command_list.csv
+   94  git commit -m"New_list"
+   95  git push
+   96  git clone https://github.com/RostislavFart/HW_10.git
+   97   comand_list.csv
+   98  git push
+   99   comand_list.csv
+  100  history > command_list.csv
+  101  git clone https://github.com/RostislavFart/HW_10.git
+  102  cd git
+  103  cd Git
+  104  cd HW_10
+  105  touch text_ignore.txt
+  106  git status
+  107  nano .gitignore
+  108  nano .gitignore
+  109  nano .gitignore
+  110  git status
+  111  git add .gitignore
+  112  git commit -m"New coment"
+  113  touch main_test.txt
+  114  git add main_test.txt
+  115  git commit -m"New test"
+  116  git branch
+  117  git checkout branch_develop
+  118  git checkout -b develop
+  119  git branch
+  120  touch develop_test.txt
+  121  git add develop_test.txt
+  122  git commit -m"New develop"
+  123  nano develop_test.txt
+  124  git add develop_test.txt
+  125  git commit -m"New again"
+  126  git status
+  127  git checkout main
+  128  git merge develop
+  129  git branch
+  130  git status
+  131  git checkout develop
+  132  git merge main
+  133  git checkout main
+  134  git add develop_test.txt
+  135  git status
+  136  git branch
+  137  git add text_ignore.txt
+  138  git status
+  139  git commit -m"New"
+  140  git branch
+  141  git log
+  142   history > command_list.csv
